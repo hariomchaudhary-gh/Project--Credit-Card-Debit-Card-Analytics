@@ -25,57 +25,57 @@ We analysed credit and debit transactions, transaction methods, balance maintain
 
 It involves-
 
-1.Data cleaning
+1. Data cleaning
 
-2.Identifying important columns
+2. Identifying important columns
 
-3.Treating nulls and missing values
+3. Treating nulls and missing values
 
-4.Data modelling (connecting tables)
+4. Data modelling (connecting tables)
 
-5.Identifying Key Value Indicators
+5. Identifying Key Value Indicators
 
-6.Analysing and creating calculated measures/columns
+6. Analysing and creating calculated measures/columns
 
-7.Visualizing the data 
+7. Visualizing the data 
 
 
 Tools used-
 
-1.SQL to fetch data from the databases.
+1. SQL to fetch data from the databases.
 
-2.Power query editor to transform the data.
+2. Power query editor to transform the data.
 
-3.Excel to analyse the initial patterns and identify the key performance indicators.
+3. Excel to analyse the initial patterns and identify the key performance indicators.
 
-4.Power BI dax to make calculated measures/columns.
+4. Power BI dax to make calculated measures/columns.
 
-5.Power BI and Tableau for visualizing and dashboarding.
+5. Power BI and Tableau for visualizing and dashboarding.
 
 
 KPIs-
-1.Total transaction amount
+1. Total transaction amount
 
-2.Credit to debit ratio
+2. Credit to debit ratio
 
-3.Account activity ratio
+3. Account activity ratio
 
-4.Net transaction amount
+4. Net transaction amount
 
 
 VISUALS-
 
-1.Pie chart
+1. Pie chart
 
-2.Donut chart
+2. Donut chart
 
-3.Line chart
+3. Line chart
 
-4.Bar graph
+4. Bar graph
 
-5.Column chart
+5. Column chart
 
-6.Area chart
+6. Area chart
 
 
 INSIGHTS-
