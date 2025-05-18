@@ -108,6 +108,6 @@ SUMMARY-
 
 2. I got the hands on practice of tools like Advance Excel, power query editor, pivot table, data modelling, Power BI,  dax, drill down, drill through, SQL etc.
 
-3. I learnt how to perform data cleaning, treating null values and handling blanks, merging tables, analyzing data, identifying important columns and key performance indicators, visualizing the data and dashboarding.
+3. I learnt how to perform data cleaning, treating null values and handling blanks, merging tables, analyzing data, identifying important columns and key performance indicators, visualizing the data and     dashboarding.
 
-4.I would like to further work on banking data and find insightful information which can help banks taking data driven decisions and perform more efficiently. My analysis will enable banks to improve consumer experience and improve the profitability of the bank. It will ultimately strengthen the India’s banking sector.
+4.I would like to further work on banking data and find insightful information which can help banks taking data driven decisions and perform more efficiently. My analysis will enable banks to improve consumer   experience and improve the profitability of the bank. It will ultimately strengthen the India’s banking sector.
