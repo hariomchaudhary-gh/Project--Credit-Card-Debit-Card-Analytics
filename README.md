@@ -1,4 +1,4 @@
-# Project--Credit-Card-Debit-Card-Analytics
+# Project--Credit-Debit-Transaction-Analytics
 
 
 INTRODUCTION-
